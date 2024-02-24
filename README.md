@@ -4,20 +4,6 @@
 
 This C++ project, *Graph Data Structure and Algorithms*, is a comprehensive resource for understanding and applying fundamental graph concepts, traversal methods, and optimization algorithms. The project provides implementations for various graph-related data structures and algorithms.
 
-## Usage
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/dixi-andrei/Graph-Data-Structure-And-Algorithms.git
-
-# Compile the Code
-
-Navigate to the project directory and compile the C++ code using your preferred compiler. For example:
-
-```bash
-g++ -o main main.cpp
-
 ## Explore Algorithms
 
 The project encompasses various algorithms and data structures. Check the source files to understand the implementations and modify them as needed.
@@ -59,3 +45,17 @@ The project encompasses various algorithms and data structures. Check the source
 
 - **Tarjan's Algorithm:**
   Finds strongly connected components in a directed graph.
+
+## Usage
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/dixi-andrei/Graph-Data-Structure-And-Algorithms.git
+
+# Compile the Code
+
+Navigate to the project directory and compile the C++ code using your preferred compiler. For example:
+
+```bash
+g++ -o main main.cpp
